@@ -5,6 +5,7 @@
 - Bước 2: cài python 3.11.4
 - Bước 3: cài pycharm community 
 - Bước 4: tạo 1 file excel có dạng như sau:
+
 ![image](https://github.com/phuongnam201/auto_change_password/assets/99521352/39bfe052-88c7-43cc-8800-49ec2c49d006) 
   + Anh em tự điền thông tin tài khoản, mật khẩu, mật khẩu mới nhé. Lưu ý tên cột phải đúng như trong ảnh nhé!
 - Bước 5: mở project này bằng pycharm
